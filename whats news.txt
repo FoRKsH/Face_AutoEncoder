@@ -1,0 +1,33 @@
+V0.0	// Youssef
+- removed mnist functions
+- added loadpic and displaypic functions
+- create print function to display output image
+
+V0.1	//FoRKsH
+- removed unused functions
+- auto save weights function
+- exit training anytime and continue from the same point
+
+V0.2
+- saving output img into folder "output" folder // Youssef
+- fixed an important bug in training function ! // FoRKsH
+- fixed a bug in print img function		// FoRKsH
+
+V0.3	//FoRKsH
+- shuffle function // shuffle the index of input every cycle
+- Project Alpha better results how ????
+
+V0.5	// FoRKsH
+- Now runs as float (previous double)
+- Optimized save load function (binary)
+- Keyboard options
+	*save weights    (s)
+	*save output     (p)
+	*show hide error (e)
+V0.6	// FoRKsH
+- loadtrain() , loadtest() functions in class trainset
+	* New Dataset 19k and Testset 4k
+- create function removed in class trainset
+- test function in class trainer
+
+Don't forget to change dir of the important files !
