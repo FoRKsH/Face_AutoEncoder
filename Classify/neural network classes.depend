@@ -1,0 +1,2350 @@
+# depslib dependency file v1.0
+1541195382 source:e:\project nn\neural network classes\src\net.cpp
+	<iostream>
+	"net.h"
+
+1541194754 e:\project nn\neural network classes\include\net.h
+	"trainSet.h"
+	"layer.h"
+
+1541194876 e:\project nn\neural network classes\include\trainset.h
+
+1541418786 e:\project nn\neural network classes\include\layer.h
+	"trainer.h"
+
+1541418964 e:\project nn\neural network classes\include\trainer.h
+	"trainer.h"
+	"net.h"
+
+1541330546 source:e:\project nn\neural network classes\src\trainset.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"trainSet.h"
+
+1541684641 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\src\trainset.cpp
+	"trainSet.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1541194876 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\include\trainset.h
+
+1541519601 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\src\net.cpp
+	"net.h"
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1541445339 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\include\net.h
+
+1542745824 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\include\layer.h
+
+1542745870 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\src\trainer.cpp
+	"trainer.h"
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+
+1542745824 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\include\trainer.h
+
+1542746142 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\src\layer.cpp
+	"layer.h"
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1542744739 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1541525394 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1541455463 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\include\layer.h
+
+1541194876 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\include\trainset.h
+
+1541445339 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\include\net.h
+
+1541446381 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\include\trainer.h
+
+1541515702 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\src\layer.cpp
+	"layer.h"
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1541519601 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\src\net.cpp
+	"net.h"
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1541521382 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\src\trainset.cpp
+	"trainSet.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1541525374 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\neural network classes\src\trainer.cpp
+	"trainer.h"
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+
+1541525987 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1541455463 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\include\layer.h
+
+1541194876 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\include\trainset.h
+
+1541445339 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\include\net.h
+
+1541446381 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\include\trainer.h
+
+1541519601 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\src\net.cpp
+	"net.h"
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1541525374 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\src\trainer.cpp
+	"trainer.h"
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+
+1541521382 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\src\trainset.cpp
+	"trainSet.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1541525981 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes\update after each pattern\neural network classes\neural network classes\src\layer.cpp
+	"layer.h"
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1542746240 source:c:\users\forksh\desktop\neural network classes\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1542745824 c:\users\forksh\desktop\neural network classes\include\layer.h
+
+1541194876 c:\users\forksh\desktop\neural network classes\include\trainset.h
+
+1541445339 c:\users\forksh\desktop\neural network classes\include\net.h
+
+1542745824 c:\users\forksh\desktop\neural network classes\include\trainer.h
+
+1542746142 source:c:\users\forksh\desktop\neural network classes\src\layer.cpp
+	"layer.h"
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1541519601 source:c:\users\forksh\desktop\neural network classes\src\net.cpp
+	"net.h"
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1542745870 source:c:\users\forksh\desktop\neural network classes\src\trainer.cpp
+	"trainer.h"
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+
+1541684641 source:c:\users\forksh\desktop\neural network classes\src\trainset.cpp
+	"trainSet.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1543953459 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1542745824 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\include\layer.h
+
+1541194876 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\include\trainset.h
+
+1541445339 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\include\net.h
+
+1543953292 d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\include\trainer.h
+
+1541519601 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\src\net.cpp
+	"net.h"
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1541684641 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\src\trainset.cpp
+	"trainSet.h"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1542895635 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\src\layer.cpp
+	"layer.h"
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1543953353 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\neural network classes original\neural network classes original\src\trainer.cpp
+	"trainer.h"
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550233149 source:c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\src\layer.cpp
+	"layer.h"
+
+1550233149 c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550233131 c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550233141 source:c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\src\net.cpp
+	"net.h"
+
+1550233141 c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550233113 c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550233131 source:c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\src\trainer.cpp
+	"trainer.h"
+
+1550233119 source:c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\src\trainset.cpp
+	"trainSet.h"
+
+1550232769 source:c:\users\forksh\desktop\neural network classes original\neural network classes original\neural network classes original\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550343870 source:c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550336158 c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550345661 c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550233141 c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550233113 c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550341035 source:c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\src\layer.cpp
+	"layer.h"
+
+1550233141 source:c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\src\net.cpp
+	"net.h"
+
+1550345482 source:c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\src\trainer.cpp
+	"trainer.h"
+
+1550339312 source:c:\users\forksh\desktop\neural network classes original all patterns at once\neural network classes original all patterns at once\neural network classes original\neural network classes original\src\trainset.cpp
+	"trainSet.h"
+
+1550343870 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550336158 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550345661 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550233141 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550233113 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550341035 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\src\layer.cpp
+	"layer.h"
+
+1550233141 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\src\net.cpp
+	"net.h"
+
+1550339312 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\neural network classes original pat pat\neural network classes original pat pat\neural network classes original all patterns at once\neural network classes original\neural network classes original\src\trainset.cpp
+	"trainSet.h"
+
+1550592365 source:c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\src\layer.cpp
+	"layer.h"
+
+1550592365 c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550593081 c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550514561 c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550514561 c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550233141 source:c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\src\net.cpp
+	"net.h"
+
+1550596099 source:c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\src\trainer.cpp
+	"trainer.h"
+
+1550442682 source:c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\src\trainset.cpp
+	"trainSet.h"
+
+1550559416 source:c:\users\forksh\desktop\neural network classes original pat pat\neural network classes original pat pat\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550592365 source:c:\users\forksh\desktop\mnist v1.0\mnist v1.0\src\layer.cpp
+	"layer.h"
+
+1550592365 c:\users\forksh\desktop\mnist v1.0\mnist v1.0\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550684987 c:\users\forksh\desktop\mnist v1.0\mnist v1.0\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550514561 c:\users\forksh\desktop\mnist v1.0\mnist v1.0\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550514561 c:\users\forksh\desktop\mnist v1.0\mnist v1.0\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550233141 source:c:\users\forksh\desktop\mnist v1.0\mnist v1.0\src\net.cpp
+	"net.h"
+
+1550442682 source:c:\users\forksh\desktop\mnist v1.0\mnist v1.0\src\trainset.cpp
+	"trainSet.h"
+
+1550685093 source:c:\users\forksh\desktop\mnist v1.0\mnist v1.0\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550685515 source:c:\users\forksh\desktop\mnist v1.0\mnist v1.0\src\trainer.cpp
+	"trainer.h"
+
+1550860269 source:c:\users\forksh\desktop\mnist v1.1\mnist v1.0\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550592365 c:\users\forksh\desktop\mnist v1.1\mnist v1.0\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550684987 c:\users\forksh\desktop\mnist v1.1\mnist v1.0\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550514561 c:\users\forksh\desktop\mnist v1.1\mnist v1.0\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860031 c:\users\forksh\desktop\mnist v1.1\mnist v1.0\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550592365 source:c:\users\forksh\desktop\mnist v1.1\mnist v1.0\src\layer.cpp
+	"layer.h"
+
+1550233141 source:c:\users\forksh\desktop\mnist v1.1\mnist v1.0\src\net.cpp
+	"net.h"
+
+1550707920 source:c:\users\forksh\desktop\mnist v1.1\mnist v1.0\src\trainer.cpp
+	"trainer.h"
+
+1550860228 source:c:\users\forksh\desktop\mnist v1.1\mnist v1.0\src\trainset.cpp
+	"trainSet.h"
+
+1550860269 source:c:\users\forksh\desktop\mnist v1.2 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550592365 c:\users\forksh\desktop\mnist v1.2 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550684987 c:\users\forksh\desktop\mnist v1.2 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550514561 c:\users\forksh\desktop\mnist v1.2 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.2 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550592365 source:c:\users\forksh\desktop\mnist v1.2 optimized\src\layer.cpp
+	"layer.h"
+
+1550233141 source:c:\users\forksh\desktop\mnist v1.2 optimized\src\net.cpp
+	"net.h"
+
+1550860981 source:c:\users\forksh\desktop\mnist v1.2 optimized\src\trainer.cpp
+	"trainer.h"
+
+1550864816 source:c:\users\forksh\desktop\mnist v1.2 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1550866719 source:c:\users\forksh\desktop\mnist v1.2\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550592365 c:\users\forksh\desktop\mnist v1.2\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550684987 c:\users\forksh\desktop\mnist v1.2\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550514561 c:\users\forksh\desktop\mnist v1.2\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.2\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550592365 source:c:\users\forksh\desktop\mnist v1.2\src\layer.cpp
+	"layer.h"
+
+1550233141 source:c:\users\forksh\desktop\mnist v1.2\src\net.cpp
+	"net.h"
+
+1550860981 source:c:\users\forksh\desktop\mnist v1.2\src\trainer.cpp
+	"trainer.h"
+
+1550866834 source:c:\users\forksh\desktop\mnist v1.2\src\trainset.cpp
+	"trainSet.h"
+
+1550592365 source:c:\users\forksh\desktop\mnist v1.3 optimized\src\layer.cpp
+	"layer.h"
+
+1550592365 c:\users\forksh\desktop\mnist v1.3 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550868663 c:\users\forksh\desktop\mnist v1.3 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550514561 c:\users\forksh\desktop\mnist v1.3 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.3 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550233141 source:c:\users\forksh\desktop\mnist v1.3 optimized\src\net.cpp
+	"net.h"
+
+1550869278 source:c:\users\forksh\desktop\mnist v1.3 optimized\src\trainer.cpp
+	"trainer.h"
+
+1550867019 source:c:\users\forksh\desktop\mnist v1.3 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1550883214 source:c:\users\forksh\desktop\mnist v1.3 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550592365 source:c:\users\forksh\desktop\mnist v1.3.2 optimized\src\layer.cpp
+	"layer.h"
+
+1550592365 c:\users\forksh\desktop\mnist v1.3.2 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1550868663 c:\users\forksh\desktop\mnist v1.3.2 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550514561 c:\users\forksh\desktop\mnist v1.3.2 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.3.2 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550233141 source:c:\users\forksh\desktop\mnist v1.3.2 optimized\src\net.cpp
+	"net.h"
+
+1550867019 source:c:\users\forksh\desktop\mnist v1.3.2 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1550883438 source:c:\users\forksh\desktop\mnist v1.3.2 optimized\src\trainer.cpp
+	"trainer.h"
+
+1550885167 source:c:\users\forksh\desktop\mnist v1.3.2 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550919905 source:c:\users\forksh\desktop\mnist v1.3.3 optimized\src\layer.cpp
+	"layer.h"
+
+1550919905 c:\users\forksh\desktop\mnist v1.3.3 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1550868663 c:\users\forksh\desktop\mnist v1.3.3 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550919905 c:\users\forksh\desktop\mnist v1.3.3 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.3.3 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550920228 source:c:\users\forksh\desktop\mnist v1.3.3 optimized\src\net.cpp
+	"net.h"
+
+1550883438 source:c:\users\forksh\desktop\mnist v1.3.3 optimized\src\trainer.cpp
+	"trainer.h"
+
+1550867019 source:c:\users\forksh\desktop\mnist v1.3.3 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1550918004 source:c:\users\forksh\desktop\mnist v1.3.3 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1550919905 source:c:\users\forksh\desktop\mnist v1.4 optimized save load log\src\layer.cpp
+	"layer.h"
+
+1550919905 c:\users\forksh\desktop\mnist v1.4 optimized save load log\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1550868663 c:\users\forksh\desktop\mnist v1.4 optimized save load log\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1550919905 c:\users\forksh\desktop\mnist v1.4 optimized save load log\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.4 optimized save load log\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550883438 source:c:\users\forksh\desktop\mnist v1.4 optimized save load log\src\trainer.cpp
+	"trainer.h"
+
+1550867019 source:c:\users\forksh\desktop\mnist v1.4 optimized save load log\src\trainset.cpp
+	"trainSet.h"
+
+1550920502 source:c:\users\forksh\desktop\mnist v1.4 optimized save load log\src\net.cpp
+	"net.h"
+
+1551014240 source:c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\src\layer.cpp
+	"layer.h"
+
+1551012439 c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1550868663 c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551012193 c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1550883438 source:c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\src\trainer.cpp
+	"trainer.h"
+
+1550867019 source:c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\src\trainset.cpp
+	"trainSet.h"
+
+1551014995 source:c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\src\net.cpp
+	"net.h"
+
+1551015027 source:c:\users\forksh\desktop\mnist v1.4.1 optimized save load log\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1551443019 source:c:\users\forksh\desktop\mnist v1.5 optimized\src\layer.cpp
+	"layer.h"
+
+1551458823 c:\users\forksh\desktop\mnist v1.5 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1551458930 c:\users\forksh\desktop\mnist v1.5 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551455643 c:\users\forksh\desktop\mnist v1.5 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.5 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1551458583 source:c:\users\forksh\desktop\mnist v1.5 optimized\src\net.cpp
+	"net.h"
+
+1551458804 source:c:\users\forksh\desktop\mnist v1.5 optimized\src\trainer.cpp
+	"trainer.h"
+
+1551449961 source:c:\users\forksh\desktop\mnist v1.5 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1551459028 source:c:\users\forksh\desktop\mnist v1.5 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1551467873 source:c:\users\forksh\desktop\mnist v1.6 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1551458823 c:\users\forksh\desktop\mnist v1.6 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1551458930 c:\users\forksh\desktop\mnist v1.6 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551455643 c:\users\forksh\desktop\mnist v1.6 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.6 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1551443019 source:c:\users\forksh\desktop\mnist v1.6 optimized\src\layer.cpp
+	"layer.h"
+
+1551467873 source:c:\users\forksh\desktop\mnist v1.6 optimized\src\net.cpp
+	"net.h"
+
+1551468068 source:c:\users\forksh\desktop\mnist v1.6 optimized\src\trainer.cpp
+	"trainer.h"
+
+1551449961 source:c:\users\forksh\desktop\mnist v1.6 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1551443019 source:c:\users\forksh\desktop\mnist v1.6.1 optimized\src\layer.cpp
+	"layer.h"
+
+1551458823 c:\users\forksh\desktop\mnist v1.6.1 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1551625804 c:\users\forksh\desktop\mnist v1.6.1 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551455643 c:\users\forksh\desktop\mnist v1.6.1 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.6.1 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1551530828 source:c:\users\forksh\desktop\mnist v1.6.1 optimized\src\net.cpp
+	"net.h"
+
+1551449961 source:c:\users\forksh\desktop\mnist v1.6.1 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1552049098 source:c:\users\forksh\desktop\mnist v1.6.1 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1551849635 source:c:\users\forksh\desktop\mnist v1.6.1 optimized\src\trainer.cpp
+	"trainer.h"
+
+1551443019 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\src\layer.cpp
+	"layer.h"
+
+1551458823 c:\users\forksh\desktop\mnist v1.6.2 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1551625804 c:\users\forksh\desktop\mnist v1.6.2 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551455643 c:\users\forksh\desktop\mnist v1.6.2 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.6.2 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1551849635 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\src\trainer.cpp
+	"trainer.h"
+
+1551449961 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1552064742 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\src\net.cpp
+	"net.h"
+
+1552249429 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1552246196 c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1552152291 c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551455643 c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1552249763 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\src\layer.cpp
+	"layer.h"
+
+1552252398 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\src\net.cpp
+	"net.h"
+
+1552249171 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\src\trainer.cpp
+	"trainer.h"
+
+1551449961 source:c:\users\forksh\desktop\mnist v1.6.2 optimized\mnist v1.6.2 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1552252473 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1552246196 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1552152291 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551455643 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1552249763 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\src\layer.cpp
+	"layer.h"
+
+1552252398 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\src\net.cpp
+	"net.h"
+
+1551449961 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\backup\mnist v1.6.3 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1552256815 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1552246196 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1552152291 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+
+1551455643 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1550860801 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1552249763 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\src\layer.cpp
+	"layer.h"
+
+1552257703 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\src\trainer.cpp
+	"trainer.h"
+
+1551449961 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1552255830 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.3 optimized\src\net.cpp
+	"net.h"
+
+1552249763 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\src\layer.cpp
+	"layer.h"
+
+1552246196 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1552751835 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1553110468 c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1552255830 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\src\net.cpp
+	"net.h"
+
+1553110468 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1553110660 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1553110577 source:c:\users\forksh\desktop\mnist v1.6.3 optimized\mnist v1.6.4 optimized\src\trainer.cpp
+	"trainer.h"
+
+1552249763 source:c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\src\layer.cpp
+	"layer.h"
+
+1552246196 c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1553262632 c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1553110468 c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1552255830 source:c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\src\net.cpp
+	"net.h"
+
+1553262632 source:c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\src\trainer.cpp
+	"trainer.h"
+
+1553110468 source:c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\src\trainset.cpp
+	"trainSet.h"
+
+1553261848 source:c:\users\forksh\desktop\mnist v1.6.3 optimized - copy\mnist v1.6.4 optimized\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<thread>
+	<chrono>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1552249763 source:c:\users\forksh\desktop\mnist v1.7\mnist v1.7\src\layer.cpp
+	"layer.h"
+
+1552246196 c:\users\forksh\desktop\mnist v1.7\mnist v1.7\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1553458991 c:\users\forksh\desktop\mnist v1.7\mnist v1.7\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\mnist v1.7\mnist v1.7\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1553439586 c:\users\forksh\desktop\mnist v1.7\mnist v1.7\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1552255830 source:c:\users\forksh\desktop\mnist v1.7\mnist v1.7\src\net.cpp
+	"net.h"
+
+1553459146 source:c:\users\forksh\desktop\mnist v1.7\mnist v1.7\src\trainer.cpp
+	"trainer.h"
+
+1553440142 source:c:\users\forksh\desktop\mnist v1.7\mnist v1.7\src\trainset.cpp
+	"trainSet.h"
+
+1553459057 source:c:\users\forksh\desktop\mnist v1.7\mnist v1.7\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<thread>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1554328661 source:c:\users\forksh\desktop\mnist v1.8\src\layer.cpp
+	"layer.h"
+
+1554327000 c:\users\forksh\desktop\mnist v1.8\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1554328661 c:\users\forksh\desktop\mnist v1.8\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\mnist v1.8\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1553439586 c:\users\forksh\desktop\mnist v1.8\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1552255830 source:c:\users\forksh\desktop\mnist v1.8\src\net.cpp
+	"net.h"
+
+1554330250 source:c:\users\forksh\desktop\mnist v1.8\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<thread>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1554143947 source:c:\users\forksh\desktop\mnist v1.8\src\trainset.cpp
+	"trainSet.h"
+
+1554330065 source:c:\users\forksh\desktop\mnist v1.8\src\trainer.cpp
+	"trainer.h"
+
+1554459596 source:c:\users\forksh\desktop\mnist v1.9\mnist v1.9\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<thread>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1554327000 c:\users\forksh\desktop\mnist v1.9\mnist v1.9\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1554328661 c:\users\forksh\desktop\mnist v1.9\mnist v1.9\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\mnist v1.9\mnist v1.9\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1553439586 c:\users\forksh\desktop\mnist v1.9\mnist v1.9\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1554388329 source:c:\users\forksh\desktop\mnist v1.9\mnist v1.9\src\layer.cpp
+	"layer.h"
+
+1552255830 source:c:\users\forksh\desktop\mnist v1.9\mnist v1.9\src\net.cpp
+	"net.h"
+
+1554403249 source:c:\users\forksh\desktop\mnist v1.9\mnist v1.9\src\trainer.cpp
+	"trainer.h"
+
+1554143947 source:c:\users\forksh\desktop\mnist v1.9\mnist v1.9\src\trainset.cpp
+	"trainSet.h"
+
+1554490325 source:e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<thread>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1554327000 e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1554489965 e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1553439586 e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
+1554490662 source:e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\src\layer.cpp
+	"layer.h"
+
+1552255830 source:e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\src\net.cpp
+	"net.h"
+
+1554490555 source:e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\src\trainer.cpp
+	"trainer.h"
+
+1554143947 source:e:\elec\004 elec final yeeeeear\neural project\mnist v1.9\mnist v1.9\src\trainset.cpp
+	"trainSet.h"
+
+1561047727 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<thread>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1554327000 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561048757 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561047655 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1554490662 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\src\layer.cpp
+	"layer.h"
+
+1552255830 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\src\net.cpp
+	"net.h"
+
+1561048868 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\src\trainer.cpp
+	"trainer.h"
+
+1561047457 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\project\src\trainset.cpp
+	"trainSet.h"
+
+1554490662 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\src\layer.cpp
+	"layer.h"
+
+1554327000 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561124620 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561047655 e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1552255830 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\src\net.cpp
+	"net.h"
+
+1561126641 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\src\trainer.cpp
+	"trainer.h"
+
+1561124916 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\src\trainset.cpp
+	"trainSet.h"
+
+1561126625 source:e:\elec\4 elec final yeeeeear\neural project\face auto encoder\final project\new project\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<thread>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1561139578 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1561369488 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561369714 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561047655 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1561369603 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\src\layer.cpp
+	"layer.h"
+
+1561370113 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\src\net.cpp
+	"net.h"
+
+1561370113 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\src\trainset.cpp
+	"trainSet.h"
+
+1561370178 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0\src\trainer.cpp
+	"trainer.h"
+
+1561370514 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\src\layer.cpp
+	"layer.h"
+
+1561369488 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561377269 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561047655 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1561375963 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\src\net.cpp
+	"net.h"
+
+1561379319 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\src\trainer.cpp
+	"trainer.h"
+
+1561370113 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\src\trainset.cpp
+	"trainSet.h"
+
+1561378887 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.0.1\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1561381896 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1561369488 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561381862 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561047655 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1561370514 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\src\layer.cpp
+	"layer.h"
+
+1561375963 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\src\net.cpp
+	"net.h"
+
+1561370113 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\src\trainset.cpp
+	"trainSet.h"
+
+1561381881 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\src\trainer.cpp
+	"trainer.h"
+
+1561386747 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\src\trainset.cpp
+	"trainSet.h"
+
+1561047655 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1561390985 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1561369488 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561389666 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561388233 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\src\layer.cpp
+	"layer.h"
+
+1561375963 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\src\net.cpp
+	"net.h"
+
+1561390762 source:c:\users\forksh\desktop\face auto encoder v0.0\face auto encoder v0.1\face auto encoder v0.1\src\trainer.cpp
+	"trainer.h"
+
+1561829273 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1561369488 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561829081 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561816599 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1561816495 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\src\layer.cpp
+	"layer.h"
+
+1561375963 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\src\net.cpp
+	"net.h"
+
+1561816523 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\src\trainer.cpp
+	"trainer.h"
+
+1561766957 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project\src\trainset.cpp
+	"trainSet.h"
+
+1561836037 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1561369488 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1561829081 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455643 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1561816599 d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1561836037 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\src\layer.cpp
+	"layer.h"
+
+1561375963 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\src\net.cpp
+	"net.h"
+
+1561833897 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\src\trainset.cpp
+	"trainSet.h"
+
+1561836043 source:d:\ﬂ·Ì…\«·„‘—Ê⁄\last\final project\project alpha\src\trainer.cpp
+	"trainer.h"
+
+1562415529 source:d:\final project\project alpha\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1562185677 d:\final project\project alpha\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1562350774 d:\final project\project alpha\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455644 d:\final project\project alpha\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1562348966 d:\final project\project alpha\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562415529 source:d:\final project\project alpha\src\layer.cpp
+	"layer.h"
+
+1562354419 source:d:\final project\project alpha\src\net.cpp
+	"net.h"
+
+1562430956 source:d:\final project\project alpha\src\trainer.cpp
+	"trainer.h"
+
+1562354308 source:d:\final project\project alpha\src\trainset.cpp
+	"trainSet.h"
+
+1562350855 source:d:\final project\project alpha v0.5\project alpha\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1562185677 d:\final project\project alpha v0.5\project alpha\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1562350774 d:\final project\project alpha v0.5\project alpha\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455644 d:\final project\project alpha v0.5\project alpha\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1562348966 d:\final project\project alpha v0.5\project alpha\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562186940 source:d:\final project\project alpha v0.5\project alpha\src\layer.cpp
+	"layer.h"
+
+1562185677 source:d:\final project\project alpha v0.5\project alpha\src\net.cpp
+	"net.h"
+
+1562351035 source:d:\final project\project alpha v0.5\project alpha\src\trainer.cpp
+	"trainer.h"
+
+1562351164 source:d:\final project\project alpha v0.5\project alpha\src\trainset.cpp
+	"trainSet.h"
+
+1562186940 source:d:\final project\project alpha0.6\project alpha\src\layer.cpp
+	"layer.h"
+
+1562185677 d:\final project\project alpha0.6\project alpha\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1562350774 d:\final project\project alpha0.6\project alpha\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1551455644 d:\final project\project alpha0.6\project alpha\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1562348966 d:\final project\project alpha0.6\project alpha\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562185677 source:d:\final project\project alpha0.6\project alpha\src\net.cpp
+	"net.h"
+
+1562354029 source:d:\final project\project alpha0.6\project alpha\src\trainer.cpp
+	"trainer.h"
+
+1562352470 source:d:\final project\project alpha0.6\project alpha\src\trainset.cpp
+	"trainSet.h"
+
+1562415529 source:e:\electric engineering fourth year\final project\final project\new\project alpha\src\layer.cpp
+	"layer.h"
+
+1562185677 e:\electric engineering fourth year\final project\final project\new\project alpha\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1562511870 e:\electric engineering fourth year\final project\final project\new\project alpha\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1562509831 e:\electric engineering fourth year\final project\final project\new\project alpha\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1562509831 e:\electric engineering fourth year\final project\final project\new\project alpha\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562511870 source:e:\electric engineering fourth year\final project\final project\new\project alpha\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1562512652 source:e:\electric engineering fourth year\final project\final project\new\project alpha\src\net.cpp
+	"net.h"
+
+1562511870 source:e:\electric engineering fourth year\final project\final project\new\project alpha\src\trainer.cpp
+	"trainer.h"
+
+1562511929 source:e:\electric engineering fourth year\final project\final project\new\project alpha\src\trainset.cpp
+	"trainSet.h"
+
+1562415529 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\src\layer.cpp
+	"layer.h"
+
+1562185677 e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1562622495 e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1562596618 e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1562509831 e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1562631944 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\src\trainer.cpp
+	"trainer.h"
+
+1562849905 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
+1562761935 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\src\net.cpp
+	"net.h"
+
+1562752410 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.7\src\trainset.cpp
+	"trainSet.h"
+
+1562415529 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\src\layer.cpp
+	"layer.h"
+
+1562185677 e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\include\layer.h
+	"trainer.h"
+	<cmath>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+
+1563289389 e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\include\trainer.h
+	"net.h"
+	"trainSet.h"
+	"layer.h"
+	<iostream>
+	<iomanip>
+	<cmath>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1562596618 e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\include\net.h
+	"layer.h"
+	"trainSet.h"
+	<iostream>
+
+1563289389 e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\include\trainset.h
+	<fstream>
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<cmath>
+
+1563271575 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\src\net.cpp
+	"net.h"
+
+1563289389 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\src\trainer.cpp
+	"trainer.h"
+
+1563289389 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\src\trainset.cpp
+	"trainSet.h"
+
+1563289389 source:e:\electric engineering fourth year\final project\final project\new\project alpha v0.8 classify\main.cpp
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<fstream>
+	"layer.h"
+	"trainSet.h"
+	"net.h"
+	"trainer.h"
+
